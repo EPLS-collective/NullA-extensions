@@ -5,7 +5,7 @@
     "description": "This is a completely non-functional test item used purely to benchmark the internal extension architecture. Installing this will not alter browser behavior.",
     "version": "1.0",
     "author": "Electus",
-    "download_url": "https://electus2000.github.io/nulla-extensions/dummy-extension.zip"
+    "download_url": "https://raw.githubusercontent.com/EPLS-collective/NullA-extensions/main/dummy-extension.zip"
   },
   {
     "id": "invibridge",
@@ -13,6 +13,6 @@
     "description": "InviBridge is built to completely eliminate YouTube's native player and force all video playback directly into decentralized, privacy-respecting Invidious mirrors.",
     "version": "26.7.1",
     "author": "EPLS (Electus Progressive Liberation Software)",
-    "download_url": "https://electus2000.github.io/nulla-extensions/InviBridge.zip"
+    "download_url": "https://raw.githubusercontent.com/EPLS-collective/NullA-extensions/main/InviBridge.zip"
   }
 ]
