@@ -4,8 +4,6 @@
 
 ---
 
-# NullA Extensions
-
 Extension store index for [NullA Browser](https://github.com/EPLS-collective/NullA-Browser). Opened from the browser's **Extensions** button.
 
 This repo hosts [`extensions.json`](extensions.json), the list the store page reads, and the `.zip` file for each extension.
